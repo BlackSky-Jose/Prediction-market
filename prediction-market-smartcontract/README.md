@@ -141,10 +141,6 @@ if market_balance >= ctx.accounts.global.market_count {
 ```
 - Prices of both token will be changed ans flowing token amount.
 
-![image](https://github.com/user-attachments/assets/43a27f40-ab88-48d1-a8ec-52a3a276c840)
-
-![image](https://github.com/user-attachments/assets/b183f8bd-7cc4-403a-88c7-941cd9d94b8b)
-
 ### 4️⃣ Betting on Market
 - Resolve Market prediction result from Oracle.
 ```rust
