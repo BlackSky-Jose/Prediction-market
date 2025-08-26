@@ -17,7 +17,7 @@ This is the backend service for a prediction market application. It is built usi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/husreo/Prediciton-market-backend.git
+    git clone https://github.com/HyperBuildX/Solana-Prediction-Market.git
     cd Prediciton-market-backend
     ```
 2. Install module and run:
