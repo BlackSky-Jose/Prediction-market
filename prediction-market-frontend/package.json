@@ -1,5 +1,5 @@
 {
-  "name": "spaceape",
+  "name": "prediction-market-frontend",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@coral-xyz/anchor": "0.29.0",
-    "@project-serum/anchor": "^0.26.0",
+    "@coral-xyz/anchor": "^0.29.0",
     "@solana/spl-token": "^0.4.13",
     "@solana/wallet-adapter-phantom": "^0.9.25",
     "@solana/wallet-adapter-react": "^0.15.36",
@@ -39,6 +38,8 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-toastify": "^1.0.0",
     "eslint": "^9",
     "eslint-config-next": "15.2.1",
     "tailwindcss": "^4.0.12",

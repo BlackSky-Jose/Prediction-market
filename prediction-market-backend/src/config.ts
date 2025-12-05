@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 import BN from "bn.js";
 import { Keypair, LAMPORTS_PER_SOL } from "@solana/web3.js";
 import keypair from "./prediction.json";
-import NodeWallet from "@project-serum/anchor/dist/cjs/nodewallet";
+import { NodeWallet } from "@coral-xyz/anchor";
 
 export const connectMongoDB = async () => {
     const MONGO_URL = process.env.DB_URL || '';

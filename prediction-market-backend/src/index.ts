@@ -2,7 +2,6 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import router from "./router";
-import bodyParser from "body-parser";
 import http from "http";
 import { initialize } from "./controller";
 import { connectMongoDB, initialSettings } from "./config";
@@ -18,8 +17,6 @@ const app = express();
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ limit: '50mb', extended: true }));
 app.use(cors());
-app.use(bodyParser.json({ limit: '50mb' }));
-app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 app.use("/api", router);
 
 initialize("devnet", {

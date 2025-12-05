@@ -1,5 +1,5 @@
 import web3, { PublicKey, TransactionMessage, AddressLookupTableProgram, TransactionInstruction, SystemProgram } from "@solana/web3.js";
-import * as anchor from "@project-serum/anchor";
+import * as anchor from "@coral-xyz/anchor";
 import { PullFeed, getDefaultDevnetQueue, asV0Tx } from "@switchboard-xyz/on-demand";
 import { CrossbarClient } from "@switchboard-xyz/common";
 import { auth } from "../config";
