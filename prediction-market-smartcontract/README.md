@@ -209,4 +209,12 @@ pub const MINT_SEED_B: &'static str = "mint_b_7";
 ```
 anchor test
 ```
+
+---
+
+## 💬 Contact
+
+- **GitHub**: [Prediction-market-SOLANA](https://github.com/BlackSky-Jose/Prediction-market-SOLANA.git)
+- **Telegram**: [@blacksky_jose](https://t.me/blacksky_jose)
+- **Twitter/X**: [@blacksky_jose](https://x.com/blacksky_jose)
 ---

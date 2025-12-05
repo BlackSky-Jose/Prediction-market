@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HyperBuildX/Solana-Prediction-Market.git"
+    "url": "git+https://github.com/BlackSky-Jose/Prediction-market-SOLANA.git"
   },
   "keywords": [
     "solana",
@@ -21,9 +21,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HyperBuildX/Solana-Prediction-Market/issues"
+    "url": "https://github.com/BlackSky-Jose/Prediction-market-SOLANA/issues"
   },
-  "homepage": "https://github.com/HyperBuildX/Solana-Prediction-Market#readme",
+  "homepage": "https://github.com/BlackSky-Jose/Prediction-market-SOLANA#readme",
   "description": "Backend service for Solana Prediction Market",
   "dependencies": {
     "@coral-xyz/anchor": "^0.29.0",
