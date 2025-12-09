@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/8f48a641-7edb-4af3-a17e-c5464bfef660
 ##  Project Structure
 
 ```
-Solana-Prediction-Market/
+Prediction-Market/
 ├── BackEnd/                 # Backend API server
 │   ├── src/
 │   │   ├── controller/      # Business logic controllers
@@ -82,7 +82,7 @@ Solana-Prediction-Market/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BlackSky-Jose/Prediction-market-SOLANA.git
+git clone https://github.com/BlackSky-Jose/Prediction-market.git
 cd Prediction-market-SOLANA
 ```
 
@@ -294,7 +294,7 @@ ISC
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us:
 
-- **GitHub**: [Prediction-market-SOLANA](https://github.com/BlackSky-Jose/Prediction-market-SOLANA.git)
+- **GitHub**: [Prediction-market-SOLANA](https://github.com/BlackSky-Jose/Prediction-market.git)
 - **Telegram**: [@blacksky_jose](https://t.me/blacksky_jose)
 - **Twitter/X**: [@blacksky_jose](https://x.com/blacksky_jose)
 
